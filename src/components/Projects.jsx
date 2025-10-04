@@ -1,7 +1,7 @@
 // components/Projects.js
 import React, { useState, useEffect, useRef } from 'react';
-import eduImage from '../assets/eduLinker.png';
-import foodImage from '../assets/foodZone.png';
+import eduImage from '../assets/EduLinker.png';
+import foodImage from '../assets/foodzone.png';
 import ecomImage from '../assets/ecom.png';
 
 

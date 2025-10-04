@@ -1,6 +1,6 @@
 // components/Hero.js
 import React from 'react';
-import './Hero.css'; 
+import './hero.css'; 
 import profileImage from '../assets/myProfile.png';
 
 const Hero = () => {
